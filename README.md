@@ -69,7 +69,8 @@
     font-size: ...;
     }
     ```
-    - values:
+- values:
+  
     ```css
     p {
     color: orange;
