@@ -51,4 +51,3 @@
 ### Box Sizing
 - content box(default): `box-sizing: content-box;`, add outside the width and height
 - border box: `box-sizing: border-box;`, add inside the width and height
-- 
